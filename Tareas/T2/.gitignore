@@ -1,0 +1,18 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+tests/
+*.ipynb
+*.idea
+*.DS_STORE
+assets/
+entrega_intermedia/test_publicos/
+entrega_intermedia/test_privados/
+entrega_intermedia/run_public_tests.py
+entrega_final/cliente/cliente_hipotetico.py

@@ -1,0 +1,18 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb
+*.idea
+*.DS_STORE
+
+
+
+test_publicos/
+api.py
+utilidades.py
+run_public_tests.py
